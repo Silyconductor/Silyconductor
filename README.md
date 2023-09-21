@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Silyconductor
 - 👀 I’m interested in ... "electronics" {i hate coding and programing}
 - 🌱 I’m currently learning ... electronics and science
-- 💞️ I’m looking to collaborate on ... nothing but electronics and product design
+- 💞️ I’m looking to collaborate on ...electronics and product design
 - 📫 How to reach me ... insta
 
 <!---
